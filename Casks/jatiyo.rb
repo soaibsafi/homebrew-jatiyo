@@ -1,4 +1,4 @@
-cask "macos-jatiyo" do
+cask "jatiyo" do
   version "0.0.1-beta"
   sha256 "cb2214804d7c8f231ae679efdd73d8b19ce2a1835e62dd001c01f5e79c733d4c"
 
