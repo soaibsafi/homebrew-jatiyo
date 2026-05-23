@@ -1,6 +1,6 @@
 cask "jatiyo" do
-  version "0.0.1-beta"
-  sha256 "cb2214804d7c8f231ae679efdd73d8b19ce2a1835e62dd001c01f5e79c733d4c"
+  version "0.1.0"
+  sha256 "6d5e95d25b388e09c3cb28a522d89b9f2e30bc32b7b99da5ee8447b4684821ae"
 
   url "https://github.com/soaibsafi/jatiyo-keylayout/archive/refs/tags/v#{version}.tar.gz"
   name "Jatiyo Bengali Keyboard"
